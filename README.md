@@ -1,6 +1,3 @@
-<img width="663" height="386" alt="image" src="https://github.com/user-attachments/assets/9862dfc6-e6a0-4f24-88fe-c6d01d6f3ea9" />## EX 13 : IMPLEMENTATION OF MESSAGE AUTHENTICATION CODE(MAC)
-
-
 ## AIM:
 
 To implement a Message Authentication Code (MAC) using a shared secret key and a hash function to verify the integrity and authenticity of a message.
